@@ -1,2 +1,2 @@
 # Statistics-Notes-Exercises
-Private sessions and lessons with excersises
+Private sessions and lessons with exercises
